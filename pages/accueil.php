@@ -14,3 +14,5 @@ $nbr = count($data);
 for ($i = 0;$i<$nbr;$i++){
     print "<br>".$data[$i]['nom ville']." (".$data[$i]['code_postal'].")";
 }
+
+print "branche ajout1";
